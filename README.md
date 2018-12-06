@@ -1,3 +1,2 @@
 # pcdfsv
-tugas besar pengelolaan citra digital
-Isa Setiawan Abdurrazaq 1301140047
+Game Pengolahan Citra Digital ( Image Processing Game ) With Javascript. Method = Flip, Zoom In, Rotate, Add Pixel, Match Pixel. With Javascript
